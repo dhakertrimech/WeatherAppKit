@@ -1,0 +1,16 @@
+PODS:
+  - OpenWeatherKit (0.1.0)
+
+DEPENDENCIES:
+  - OpenWeatherKit (from `OpenWeatherKit`)
+
+EXTERNAL SOURCES:
+  OpenWeatherKit:
+    :path: OpenWeatherKit
+
+SPEC CHECKSUMS:
+  OpenWeatherKit: e03455901c6bdb87f05021659d18b3aff3f01dc5
+
+PODFILE CHECKSUM: 51f360ecc4fc1a9279a2ec304fe2d95e6649d884
+
+COCOAPODS: 1.12.0

@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WeatherKit_Tests' do
+  pod 'WeatherKit', :path => '../'
+  
+  
+end

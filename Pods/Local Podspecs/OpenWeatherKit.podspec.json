@@ -1,0 +1,23 @@
+{
+  "name": "OpenWeatherKit",
+  "version": "0.1.0",
+  "summary": "A short description of WeatherKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Dhaker/OpenWeatherKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dhaker-Zeta": "dhaker.trimeche@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/dhaker.trimeche/WeatherKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "OpenWeatherKit/Classes/**/*",
+  "frameworks": "UIKit"
+}
